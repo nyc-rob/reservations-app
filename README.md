@@ -1,6 +1,6 @@
 # Reservations Demo App 
 
-_All code written by Robert Benninger_ 
+_All code written and tested by Robert Benninger without the use of AI_ 
 
 This is a small serverless python app created to demonstrate various cloud technologies, some of which I work with on a daily basis and some I've worked with in previous roles. The app consists of a small front-end script (`client-app/menu.py`) that allows you to interact with an AWS API Gateway via a text based menu. 
 
